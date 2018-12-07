@@ -73,7 +73,7 @@ paginate = 5 #frontpage pagination
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
     [params.writers."Hao"]
-   #link = "https://lherman.tk"
+   link = "https://lherman.tk"
    # email = "lherman.cs@gmail.com"
   #  bio = [
   #    "Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
